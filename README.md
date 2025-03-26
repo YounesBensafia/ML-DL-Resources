@@ -15,3 +15,8 @@ Here are the resources available so far:
   <img src="https://github.com/user-attachments/assets/dd14b969-0a6f-454e-988f-dec4bb8a2694" width="30%">
 
 </p>
+
+
+## If you have an issue like the one in the image, make sure to retry or download it directly, and it should work.
+![image](https://github.com/user-attachments/assets/d3b2719b-86c5-41cb-9551-d4f1585df8b7)
+
